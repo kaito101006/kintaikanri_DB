@@ -1,0 +1,72 @@
+.hizuke{
+    text-align: center;
+    margin-top: 140px;
+}
+.realclock1{
+    text-align: center;
+    font-size:100px;
+    margin-top:0px;
+    margin-bottom:70px;
+}
+
+.buttonlist{
+    list-style-type: none;
+     
+}
+h2{
+  margin-left:10px;
+}
+.buttonlist li{
+    margin-left: 40px;
+    display:inline-flex;
+    font-size:25px;
+    margin:0 auto;
+    padding: 0 4%;
+   
+    
+}
+
+form{
+    text-align:center;
+}
+
+input{
+    text-decoration: none;
+}
+input.btn-border1 {
+    border: 2px solid #000;
+    border-radius: 0;
+    background: #fff;
+    padding:10px 30px 10px 30px;
+  }
+  
+  input.btn-border1:hover {
+    color: #fff;
+    background: #000;
+  }
+  input.btn-s1 {
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+  }
+
+  input.btn-border2{
+    border: 2px solid #000;
+    border-radius: 0;
+    background: #fff;
+    padding:10px 20px 10px 20px;
+  }
+  
+  input.btn-border2:hover {
+    color: #fff;
+    background: #000;
+  }
+  input.btn-s2 {
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+  }
+
+  .user1{
+    text-align: center;
+    margin-top:20px;
+    margin-bottom :70px;
+  }

@@ -1,0 +1,164 @@
+
+
+body{
+  width:100%;
+}
+h2{
+   margin-left:10px;
+
+}
+.hizuke{
+    text-align: center;
+    margin-top: 75px;
+}
+.realclock1{
+    text-align: center;
+    font-size:100px;
+    margin-top:0px;
+    margin-bottom:10px;
+    font-weight:lighter;
+}
+
+.buttonlist{
+    list-style-type: none;    
+
+}
+
+
+
+.buttonlist li{
+  font-size: 23px;
+  display:inline-flex;
+  justify-content:center;
+  flex-wrap:wrap;
+  align-content:space-around;
+  height:135px;
+  margin:0 auto;
+  padding: 0 2rem;
+}
+
+
+   
+
+    
+  
+
+.text1{
+  margin-bottom:50px;
+  margin-top:15px;
+ 
+}
+
+form{
+    text-align:center;
+    
+}
+
+input{
+    text-decoration: none;
+}
+
+.b-o1{
+    color: #fff;
+    background-color: #eb6100;
+  }
+  
+  .b-o1:hover{
+    color: #fff;
+    background: #e66e19;
+  }
+  
+  .b-s1 {
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .b-c1 {
+    border-radius: 60%;
+    line-height: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 0;
+  }
+  .b-o2{
+    color: #fff;
+    background-color: #99ff56;
+  }
+  
+  .b-o2:hover{
+    color: #fff;
+    background: #7df50d;
+  }
+  
+  .b-s2 {
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+.b-c2 {
+    border-radius: 50%;
+    line-height: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 0;
+  }
+  .b-o3{
+    color: #fff;
+    background-color: #00bceb;
+  }
+  
+  .b-o3:hover{
+    color: #fff;
+    background: #00b0f5;
+  }
+  
+  .b-s3 {
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .b-c3 {
+    border-radius: 50%;
+    line-height: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 0;
+  }
+  .b-o4{
+    color: #fff;
+    background-color: #e7eb00;
+  }
+  
+  .b-o4:hover{
+    color: #fff;
+    background: #e5f500;
+  }
+  
+  .b-s4 {
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .b-c4{
+    border-radius: 50%;
+    line-height: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 0;
+
+  }
+  .s1{
+    margin: 0 20px; 
+  } 
+  .r3{
+    margin-top:20px;
+
+}
+
+.pass1{
+  margin-bottom:40px;
+  margin-top:15px;
+}
+h3{
+  text-align: center;
+}
