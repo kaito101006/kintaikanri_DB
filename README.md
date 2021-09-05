@@ -6,14 +6,7 @@
  
 ※このシステムは作品として紹介していますのでデモを試すには、まずphpがネットワークに接続出来るようにしてください。また、SQLファイルをインポートしてSQLも接続できるようにしてください。
 
-# table of contents
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-- [Sistem image(User side)](#Sistem image(User side))
-- [Sistem image(Sier side)](#Sistem image(Sier side))
-- [File Structure](#File Structure)
-- [Programming language](#Programming language)
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Sistem image(User side)
 kanri1.php
 
@@ -21,6 +14,8 @@ kanri1.php
 kanri2.php
 
 ![user2](kintai/user2.png)
+
+<a id="Sistem image(Sier side)"></a>
 # Sistem image(Sier side)
 login.php
 
@@ -32,6 +27,7 @@ main.php(2)
 
 ![sier3](kintai/sier3.png)
 
+<a id="File Structure"></a>
 # File Structure
 ダウンロードしたファイルには、次のディレクトリとファイルがあります。 
 
@@ -65,5 +61,7 @@ Time and attendance system /
  
 
 
-
+<a id="Programming language"></a>
 # Programming language
+
+
