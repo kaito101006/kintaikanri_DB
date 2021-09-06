@@ -62,6 +62,6 @@ Time and attendance system /
 
 
 
-# Programming language
-
+# Programming langua
+![html](html.png) ![css](css.png) ![js](js.png) ![php](php.png)
 
