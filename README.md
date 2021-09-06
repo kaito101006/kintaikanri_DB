@@ -27,7 +27,7 @@ main.php(2)
 
 ![sier3](kintai/sier3.png)
 
-<a id="File Structure"></a>
+
 # File Structure
 ダウンロードしたファイルには、次のディレクトリとファイルがあります。 
 
@@ -61,7 +61,7 @@ Time and attendance system /
  
 
 
-<a id="Programming language"></a>
+
 # Programming language
 
 
