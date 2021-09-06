@@ -63,5 +63,5 @@ Time and attendance system /
 
 
 # Programming language
-![html](html.jpeg)  ![javascript](javascript.png) ![php](php.png)
+
 
